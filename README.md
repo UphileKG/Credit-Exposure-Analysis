@@ -11,6 +11,7 @@
 - [Recommendations](#Recommendations)
 - [Reproducibility](#Reproducibility)
 - [Author: Uphile Gama](#Author-Uphile-Gama)
+- [Project Structure](#Project-Structure)
 - [Data source](#Data-source)
 
 
@@ -103,6 +104,11 @@ This enables comparison of risk concentration across customer segments. Also, Th
 
 ## Author: Uphile Gama
 Aspiring Financial Data Analyst focused on building practical, job-ready analytical skills.
+
+## Project Structure
+
+- `/sql` – SQL scripts used for analysis (ordered by execution)
+- `/screenshots` – Output visuals of key results
 
 ## Data source
 1. [Kaggle, Credit Risk Analysis](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset/data)
